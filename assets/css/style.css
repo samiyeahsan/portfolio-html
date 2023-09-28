@@ -10,7 +10,7 @@ body {
 .header {
   padding: 20px;
   font-family: Arial;
-  background-color: #7c2a69;
+  background-color: rgba(124, 42, 105, .8);
   color: #ffffff;
   
 }
@@ -46,6 +46,14 @@ p {
   font-size: 32px;
 }
 
+.hero-image {
+  width: 100%;
+  height: 830px;
+  background-image: url("../image/Working-mom-cartoon.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
  img {
   display: block;
   max-width: 60%;
@@ -74,4 +82,11 @@ p {
   padding: 5px;
   user-select: all;
   
+}
+
+
+@media screen (max-width: 590px){
+  .hero-image {
+
+  }
 }

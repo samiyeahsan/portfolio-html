@@ -11,3 +11,6 @@ This section is about some of my previs jobs related to IT
 
 This section says how you can contact me
 
+##### The following animation shows the web application's appearance and functionality:
+![portfolio image](https://github.com/samiyeahsan/portfolio.html/blob/main/assets/images/portfolio.png?raw=true)
+[Deployed Link](https://samiyeahsan.github.io/semantic-html2/)
